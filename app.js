@@ -1,4 +1,4 @@
-const URL = "https://rickandmortyapi.com/api/character/?page=12";
+const URL = "https://rickandmortyapi.com/api/character/?page=11";
 const caja = document.querySelector('#personajes');
 const main = document.querySelector('#main');
 const TemplateCard = document.querySelector('#templatecard').content;
